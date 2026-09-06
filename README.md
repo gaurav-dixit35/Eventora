@@ -16,6 +16,7 @@ Eventora is a full-stack event discovery and ticketing platform. The repository 
 4. Start the web and API apps: `npm run dev`.
 
 The web app runs at `http://localhost:3000`. The API runs at `http://localhost:4000`, with health at `/health` and Swagger at `/docs`.
+PostgreSQL is exposed at `localhost:5433` to avoid colliding with an existing local PostgreSQL service; Redis is at `localhost:6379`.
 
 ## Checks
 
