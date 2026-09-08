@@ -24,6 +24,8 @@ Run `npm run lint`, `npm run typecheck`, and `npm run build` before opening a pu
 
 ## Repository layout
 
+## More Uptdates Will come SOOOOOOOONNNNNNNN
+
 - `apps/web`: Next.js App Router frontend
 - `apps/api`: NestJS REST API
 - `packages/config`: shared TypeScript configuration
